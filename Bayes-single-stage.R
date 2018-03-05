@@ -1,6 +1,6 @@
 #Author: William Weimin Yoo
 #Code to implement one stage Bayesian estimation of the mode, and to draw the first box-plot
-#in Figure 2 of the paper
+#in Figure 3 of the paper
 #####################################################################################
 library(splines)
 library(MASS)
