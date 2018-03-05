@@ -1,6 +1,6 @@
 #Author: William Weimin Yoo
-#Code to implement our proposed Bayesian two-stage, and to draw the second box-plot
-#in Figure 2 of the paper
+#Code to implement our proposed Bayesian two-stage, and to draw Figures 1, 2 and the second box-plot
+#in Figure 3 of the paper
 ############################################################################
 library(splines)
 library(MASS)
